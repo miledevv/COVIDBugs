@@ -10,5 +10,5 @@ This app was coded entirely in Java, using JavaFX for frontend.
 
 Video demonstration of app: https://youtu.be/HOWKhSJVi8k
 <p align="center">
-<img src="/Desktop/appscreenshot.png" >
+<img src="piclt3iatxy2.png" >
 </p>
